@@ -1,15 +1,14 @@
 body {
-	background-image:
-	url("https://image.freepik.com/free-vector/gradient-abstract-texture-background_1340-2267.jpg");
+	background-image: url("https://image.freepik.com/free-vector/gradient-abstract-texture-background_1340-2267.jpg");
 }
 
 .banner {
-	background-color: 	#C57433;
+	background-color: #C57433;
 	color: white;
 }
 
 img {
 	height: 150px;
 	display: block;
-    margin: 0 auto;
+	margin: 0 auto;
 }
